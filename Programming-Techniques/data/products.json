@@ -1,0 +1,92 @@
+[
+  {
+    "ma_sp": "SP001",
+    "ten_sp": "Gao Jasmine 5kg",
+    "loai_hang": "Thuc pham",
+    "don_vi_tinh": "tui",
+    "so_luong_ton": 120,
+    "don_gia": 85000,
+    "nguong_toi_thieu": 20
+  },
+  {
+    "ma_sp": "SP002",
+    "ten_sp": "Nuoc mam Nam Ngu 500ml",
+    "loai_hang": "Thuc pham",
+    "don_vi_tinh": "chai",
+    "so_luong_ton": 8,
+    "don_gia": 22000,
+    "nguong_toi_thieu": 10
+  },
+  {
+    "ma_sp": "SP003",
+    "ten_sp": "Dau an Neptune 1 lit",
+    "loai_hang": "Thuc pham",
+    "don_vi_tinh": "chai",
+    "so_luong_ton": 45,
+    "don_gia": 38000,
+    "nguong_toi_thieu": 15
+  },
+  {
+    "ma_sp": "SP004",
+    "ten_sp": "Bong den LED Philips 9W",
+    "loai_hang": "Dien tu",
+    "don_vi_tinh": "cai",
+    "so_luong_ton": 3,
+    "don_gia": 55000,
+    "nguong_toi_thieu": 10
+  },
+  {
+    "ma_sp": "SP005",
+    "ten_sp": "Pin AA Energizer (vi 4 vien)",
+    "loai_hang": "Dien tu",
+    "don_vi_tinh": "vi",
+    "so_luong_ton": 30,
+    "don_gia": 45000,
+    "nguong_toi_thieu": 10
+  },
+  {
+    "ma_sp": "SP006",
+    "ten_sp": "But bi Thien Long xanh",
+    "loai_hang": "Van phong pham",
+    "don_vi_tinh": "hop",
+    "so_luong_ton": 50,
+    "don_gia": 25000,
+    "nguong_toi_thieu": 10
+  },
+  {
+    "ma_sp": "SP007",
+    "ten_sp": "Giay A4 Double A 500 to",
+    "loai_hang": "Van phong pham",
+    "don_vi_tinh": "ream",
+    "so_luong_ton": 5,
+    "don_gia": 95000,
+    "nguong_toi_thieu": 10
+  },
+  {
+    "ma_sp": "SP008",
+    "ten_sp": "Khan giay Kleenex hop 100 to",
+    "loai_hang": "Tieu dung",
+    "don_vi_tinh": "hop",
+    "so_luong_ton": 60,
+    "don_gia": 35000,
+    "nguong_toi_thieu": 15
+  },
+  {
+    "ma_sp": "SP009",
+    "ten_sp": "Nuoc giat Omo 3.5kg",
+    "loai_hang": "Tieu dung",
+    "don_vi_tinh": "tui",
+    "so_luong_ton": 0,
+    "don_gia": 145000,
+    "nguong_toi_thieu": 10
+  },
+  {
+    "ma_sp": "SP010",
+    "ten_sp": "Sua tuoi Vinamilk 1 lit",
+    "loai_hang": "Thuc pham",
+    "don_vi_tinh": "hop",
+    "so_luong_ton": 200,
+    "don_gia": 32000,
+    "nguong_toi_thieu": 30
+  }
+]

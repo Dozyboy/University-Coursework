@@ -1,0 +1,102 @@
+[
+  {
+    "ma_gd": "GD0001",
+    "ma_sp": "SP001",
+    "ten_sp": "Gao Jasmine 5kg",
+    "loai_giao_dich": "nhap",
+    "so_luong": 200,
+    "don_gia": 80000,
+    "ngay_thuc_hien": "2025-05-03",
+    "ghi_chu": "Nhap hang dau ky"
+  },
+  {
+    "ma_gd": "GD0002",
+    "ma_sp": "SP002",
+    "ten_sp": "Nuoc mam Nam Ngu 500ml",
+    "loai_giao_dich": "nhap",
+    "so_luong": 50,
+    "don_gia": 20000,
+    "ngay_thuc_hien": "2025-05-03",
+    "ghi_chu": "Nhap hang dau ky"
+  },
+  {
+    "ma_gd": "GD0003",
+    "ma_sp": "SP001",
+    "ten_sp": "Gao Jasmine 5kg",
+    "loai_giao_dich": "xuat",
+    "so_luong": 80,
+    "don_gia": 95000,
+    "ngay_thuc_hien": "2025-05-10",
+    "ghi_chu": "Xuat ban le"
+  },
+  {
+    "ma_gd": "GD0004",
+    "ma_sp": "SP003",
+    "ten_sp": "Dau an Neptune 1 lit",
+    "loai_giao_dich": "nhap",
+    "so_luong": 100,
+    "don_gia": 35000,
+    "ngay_thuc_hien": "2025-05-12",
+    "ghi_chu": ""
+  },
+  {
+    "ma_gd": "GD0005",
+    "ma_sp": "SP002",
+    "ten_sp": "Nuoc mam Nam Ngu 500ml",
+    "loai_giao_dich": "xuat",
+    "so_luong": 42,
+    "don_gia": 28000,
+    "ngay_thuc_hien": "2025-05-18",
+    "ghi_chu": "Xuat si"
+  },
+  {
+    "ma_gd": "GD0006",
+    "ma_sp": "SP004",
+    "ten_sp": "Bong den LED Philips 9W",
+    "loai_giao_dich": "nhap",
+    "so_luong": 30,
+    "don_gia": 48000,
+    "ngay_thuc_hien": "2025-05-20",
+    "ghi_chu": "Nhap them do sap het"
+  },
+  {
+    "ma_gd": "GD0007",
+    "ma_sp": "SP010",
+    "ten_sp": "Sua tuoi Vinamilk 1 lit",
+    "loai_giao_dich": "nhap",
+    "so_luong": 300,
+    "don_gia": 30000,
+    "ngay_thuc_hien": "2025-06-02",
+    "ghi_chu": "Nhap thang 6"
+  },
+  {
+    "ma_gd": "GD0008",
+    "ma_sp": "SP006",
+    "ten_sp": "But bi Thien Long xanh",
+    "loai_giao_dich": "xuat",
+    "so_luong": 10,
+    "don_gia": 30000,
+    "ngay_thuc_hien": "2025-06-02",
+    "ghi_chu": "Ban le"
+  },
+  {
+    "ma_gd": "GD0009",
+    "ma_sp": "SP009",
+    "ten_sp": "Nuoc giat Omo 3.5kg",
+    "loai_giao_dich": "nhap",
+    "so_luong": 50,
+    "don_gia": 130000,
+    "ngay_thuc_hien": "2025-06-03",
+    "ghi_chu": "Nhap bu hang het"
+  },
+  {
+    "ma_gd": "GD0010",
+    "ma_sp": "SP009",
+    "ten_sp": "Nuoc giat Omo 3.5kg",
+    "loai_giao_dich": "xuat",
+    "so_luong": 50,
+    "don_gia": 145000,
+    "ngay_thuc_hien": "2025-06-03",
+    "ghi_chu": "Xuat hang si"
+  }
+]

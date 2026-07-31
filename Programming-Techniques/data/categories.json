@@ -1,0 +1,31 @@
+{
+  "loai_hang": [
+    "Thuc pham",
+    "Do uong",
+    "Dien tu",
+    "Van phong pham",
+    "Tieu dung",
+    "The thao",
+    "Thoi trang",
+    "Noi that",
+    "Y te",
+    "Khac"
+  ],
+  "don_vi_tinh": [
+    "cai",
+    "chiec",
+    "doi",
+    "hop",
+    "tui",
+    "thung",
+    "chai",
+    "lon",
+    "kg",
+    "g",
+    "lit",
+    "ml",
+    "met",
+    "ream",
+    "vi"
+  ]
+}
